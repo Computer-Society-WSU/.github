@@ -27,7 +27,7 @@ If you are interested in joining our club, you can:
 ## Contact us
 
 If you have any questions, suggestions, or feedback, you can contact our Advisor!
-- Address: Voiland College of Engineering, Dana Hall 215, Washington State University,
+- Address: Voiland College of Engineering, Dana Hall 215, Washington State University, 305 NE Spokane St, Pullman, WA 99164
 
 We look forward to hearing from you and seeing you at our next event!
 
