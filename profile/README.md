@@ -20,7 +20,7 @@ We organize various events and activities throughout the year, such as:
 
 If you are interested in joining our club, you can:
 
-- Follow us on [Instagram](https://www.instagram.com/computersociety.wsu/?igshid=MzMyNGUyNmU2YQ%3D%3D&utm_source=qr) @ComputerSociety.ewu to stay updated on our latest news and events.
+- Follow us on [Instagram](https://www.instagram.com/computersociety.wsu/?igshid=MzMyNGUyNmU2YQ%3D%3D&utm_source=qr) @ComputerSociety.wsu to stay updated on our latest news and events.
 - Join our [Discord](https://discord.com/invite/UPDgrGdpxp) server to chat with other club members, ask questions, and get help with your projects.
 - Attend our weekly meetings on Wednesdays at 3:30 PM in the Computer Science Building, Room 228. We welcome students of all majors and skill levels!
 
